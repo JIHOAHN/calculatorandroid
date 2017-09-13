@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="storedTV" type="id" />
+    <item name="textView" type="id" />
+    <item name="displayTV" type="id" />
+    <item name="Button" type="id" />
+</resources>
